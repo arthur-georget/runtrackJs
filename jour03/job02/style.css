@@ -1,0 +1,10 @@
+img {
+  width: 15vw;
+  cursor: pointer;
+}
+#board {
+  height: 45vw;
+  width: 100%;
+  border: dashed thin black;
+  display: flex;
+}
