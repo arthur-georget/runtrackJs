@@ -1,0 +1,11 @@
+img {
+  width: 30vw;
+  height: 30vw;
+}
+#board {
+  height: 90vw;
+  width: 100%;
+  border: dashed thin black;
+  display: flex;
+  flex-wrap: wrap;
+}
