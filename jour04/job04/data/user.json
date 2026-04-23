@@ -1,0 +1,20 @@
+[   
+    {
+        "id" : 0,
+        "lastName" : "Palmer",
+        "firstName" : "Sarah",
+        "eMail" : "sarah.palmer@twin.com"
+    },
+    {
+        "id" : 1,
+        "lastName" : "Truman",
+        "firstName" : "Harry",
+        "eMail" : "harry.truman@sherif.com"
+    },
+    {
+        "id" : 2,
+        "lastName" : "Cooper",
+        "firstName" : "Dale",
+        "eMail" : "dale.cooper@fbi.com"
+    }
+]
